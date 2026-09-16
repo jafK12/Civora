@@ -1,0 +1,6 @@
+{
+  "name": "Civora",
+  "description": "Civic service locator, statutory transparency, and anonymous discrepancy reporting platform.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
